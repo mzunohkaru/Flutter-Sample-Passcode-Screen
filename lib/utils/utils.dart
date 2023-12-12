@@ -1,0 +1,1 @@
+const storedPasscode = '123456';
